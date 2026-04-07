@@ -1,6 +1,8 @@
 # 4th April 2026
 
 ## I am so busy with toys...
+<img src="./clicks/pictures/setup.jpg" width="600">
+
 Lately I have been entirely caught up with the gadgets I have. <br />
 So much so that I have been missing out on my dream and avoiding other resposnsibilities as well. <br />
 Heck, even as I type this journal, all that excites is me how can I optimize my setup more using the gadgets I own <br />

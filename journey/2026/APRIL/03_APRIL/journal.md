@@ -3,7 +3,7 @@
 [//]: # (## <i>La Lune est très paisible</i>)
 ## <i>La lune est magnifique c'est soire</i>
 
-<img src="../02_APRIL_2026/clicks/pictures/purnima.jpeg" width="400">
+<img src="../02_APRIL/clicks/pictures/purnima.jpeg" width="400">
 
 Look at it shining, confusing the vast dark skies around it. It's almost as if the sun himself showed up. <br />
 Gazing at it brings about a certain stillness inside me. It's one of nature's rare sightings, glad to have witnessed it.

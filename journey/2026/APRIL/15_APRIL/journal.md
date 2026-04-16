@@ -2,7 +2,7 @@
 
 ## Back in Pune...
 
-<img src="./clicks/workspace.jpeg" width="400">
+<img src="clicks/pictures/workspace.jpeg" width="400">
 
 It's been a while since I am back, against my original wish to stay back and work on myself from Gurugram itself. <br />
 Life seemingly has other plans for me.

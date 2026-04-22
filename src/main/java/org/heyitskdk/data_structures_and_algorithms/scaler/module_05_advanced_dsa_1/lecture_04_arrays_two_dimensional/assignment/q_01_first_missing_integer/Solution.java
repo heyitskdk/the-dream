@@ -1,4 +1,4 @@
-package org.heyitskdk.data_structures_and_algorithms.scaler.module_05_advanced_dsa_1.lecture_04_arrays_two_dimensional.q_01_first_missing_integer;
+package org.heyitskdk.data_structures_and_algorithms.scaler.module_05_advanced_dsa_1.lecture_04_arrays_two_dimensional.assignment.q_01_first_missing_integer;
 
 public class Solution {
     public int firstMissingPositive(int[] A) {

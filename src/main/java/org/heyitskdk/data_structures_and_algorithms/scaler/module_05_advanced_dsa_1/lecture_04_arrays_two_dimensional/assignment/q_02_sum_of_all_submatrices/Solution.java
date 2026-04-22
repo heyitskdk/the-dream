@@ -1,4 +1,4 @@
-package org.heyitskdk.data_structures_and_algorithms.scaler.module_05_advanced_dsa_1.lecture_04_arrays_two_dimensional.q_02_sum_of_all_submatrices;
+package org.heyitskdk.data_structures_and_algorithms.scaler.module_05_advanced_dsa_1.lecture_04_arrays_two_dimensional.assignment.q_02_sum_of_all_submatrices;
 
 public class Solution {
     public int solve(int[][] A) {

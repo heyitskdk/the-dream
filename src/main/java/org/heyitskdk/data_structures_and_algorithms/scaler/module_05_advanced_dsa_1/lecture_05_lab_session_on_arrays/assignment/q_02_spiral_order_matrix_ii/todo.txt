@@ -1,0 +1,3 @@
+The solution works well only for sqaure matrices
+
+- Implement a solution for rectangular matrices

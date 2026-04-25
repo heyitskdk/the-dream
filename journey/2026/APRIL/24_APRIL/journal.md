@@ -30,10 +30,10 @@ for me, and guess it decided to reward my efforts ? It really all is a mystery.
 All I can say is, I am grateful. Thanks.
 
 When it rains, it pours. <br>
-Metaphysically, yes, plus it actualy did rain today. A good burst of shower. Turned out to be a nice little evening.
+Metaphorically, yes, plus it actualy did rain today. A good burst of shower. Turned out to be a nice little evening.
 
 On the productivity front, yeah. It's a low score today, <br>
 But I am going to keep showing up. Gradually, productivity will flow.
 
-Alright then, that was it for today. Stay tuned for more updates,
+Alright then, that was it for today. Stay tuned for more updates, <br>
 heyitskdk

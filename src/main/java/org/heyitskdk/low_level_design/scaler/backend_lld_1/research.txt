@@ -1,0 +1,3 @@
+Lecture 4: Inheritance and Polymorphism
+- how does object creation actually take place in java, as each class by defaults inherits the
+  `Object` super class

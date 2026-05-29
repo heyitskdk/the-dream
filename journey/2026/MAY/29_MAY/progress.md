@@ -5,7 +5,7 @@ Tags: [math]
 Mood: casual
 ---
 
-# 28th May 2026
+# 29th May 2026
 
 ## Overview
 Completed `Know Basic Maths` chapter from `Learn the Basics` section

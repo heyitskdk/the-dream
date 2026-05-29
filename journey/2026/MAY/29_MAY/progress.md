@@ -11,12 +11,11 @@ Mood: casual
 Completed `Know Basic Maths` chapter from `Learn the Basics` section
 
 ## Problems
-| S. No. | Problem                                                                                                                                       | Topics | Level | Attempts | Time taken | My Expertise | Status   | TC/SC                                 | Spaced Repetition | Note |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|----------|------------|--------------|----------|---------------------------------------|-------------------|------|
-| 1      | [Check if the Number is Armstrong](https://takeuforward.org/plus/dsa/problems/check-if-the-number-if-armstrong?source=strivers-a2z-dsa-track) | Math   | Easy  | 1        | -          | Comfortable  | Accepted | TC: O(log N) / SC: O(1)               | -                 | -    |
-| 2      | [All divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)                                                 | Math   | Easy  | 1        | -          | Comfortable  | Accepted | TC: O(sqrt(N) + D * log D) / SC: O(D) | -                 | -    |
-| 2      | [Check for Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)                                                           | Math   | Easy  | 1        | -          | Comfortable  | Accepted | TC: O(sqrt(N)) / SC: O(1)             | -                 | -    |
-
+| S. No. | Source       | Problem                                                                                                                                       | Topics | Level | Attempts | Time taken | My Expertise | Status   | TC                       | SC     | Spaced Repetition | Note                                    |
+|--------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|----------|------------|--------------|----------|--------------------------|--------|-------------------|-----------------------------------------|
+| 1      | takeUForward | [Check if the Number is Armstrong](https://takeuforward.org/plus/dsa/problems/check-if-the-number-if-armstrong?source=strivers-a2z-dsa-track) | `Math` | Easy  | 1        | -          | Comfortable  | Accepted | `O(log N)`               | `O(1)` | -                 | -                                       |
+| 2      | takeUForward | [All divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1)                                                 | `Math` | Easy  | 1        | -          | Comfortable  | Accepted | `O(sqrt(N) + D * log D)` | `O(D)` | -                 | Here, `D` refers to the no. of divisors |
+| 2      | takeUForward | [Check for Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)                                                           | `Math` | Easy  | 1        | -          | Comfortable  | Accepted | `O(sqrt(N))`             | `O(1)` | -                 | -                                       |
 
 
 ## Commits

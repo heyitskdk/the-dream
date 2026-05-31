@@ -1,7 +1,7 @@
 ---
 Day: 4
 Time taken: NA
-Tags: [recursion]
+Tags: [hashing]
 Mood: chill
 ---
 

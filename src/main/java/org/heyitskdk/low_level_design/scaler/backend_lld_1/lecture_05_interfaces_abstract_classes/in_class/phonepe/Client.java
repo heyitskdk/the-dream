@@ -12,7 +12,5 @@ public class Client {
         bankAPI = new ICICIBankAPI();
         bankAPI.checkBalance();
         bankAPI.transferMoney(1000);
-        BankAPI.checkTransactionHistory();
-
     }
 }
